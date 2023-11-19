@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @adm-sbachmann
-- I’m interested in system administration (my dayjob), AWS with boto3, digital music (files). 
+- I’m interested in system administration (my dayjob), AWS with boto3, Kubernetes, Stable Diffusion and digital music (files). 
 - 🌱 I’m currently learning more Python.
